@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|c:\\users\\123\\onedrive - upb\\documents\\gerardo full\\spc total\\spc - 6 - fall - 2025\\asp.net\\week 4\\hw\\contosouniversity\\features\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|solutionrelative:features\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|c:\\users\\123\\onedrive - upb\\documents\\gerardo full\\spc total\\spc - 6 - fall - 2025\\asp.net\\week 4\\hw\\contosouniversity\\features\\pages\\shared\\navigationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|solutionrelative:features\\pages\\shared\\navigationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|c:\\users\\123\\onedrive - upb\\documents\\gerardo full\\spc total\\spc - 6 - fall - 2025\\asp.net\\week 4\\hw\\contosouniversity\\features\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|solutionrelative:features\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|c:\\users\\123\\onedrive - upb\\documents\\gerardo full\\spc total\\spc - 6 - fall - 2025\\asp.net\\week 4\\hw\\contosouniversity\\features\\pages\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|solutionrelative:features\\pages\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|c:\\users\\123\\onedrive - upb\\documents\\gerardo full\\spc total\\spc - 6 - fall - 2025\\asp.net\\week 4\\hw\\contosouniversity\\features\\pages\\shared\\searchpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|solutionrelative:features\\pages\\shared\\searchpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|c:\\users\\123\\onedrive - upb\\documents\\gerardo full\\spc total\\spc - 6 - fall - 2025\\asp.net\\week 4\\hw\\contosouniversity\\features\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|solutionrelative:features\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|c:\\users\\123\\onedrive - upb\\documents\\gerardo full\\spc total\\spc - 6 - fall - 2025\\asp.net\\week 4\\hw\\contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BDDB12-6FEF-4B50-84DE-935EFB433F4A}|ContosoUniversity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Pages\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Features\\Pages\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Pages\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Features\\Pages\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T00:13:11.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Pages\\Shared\\SearchPartial.cshtml",
+              "RelativeDocumentMoniker": "Features\\Pages\\Shared\\SearchPartial.cshtml",
+              "ToolTip": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Pages\\Shared\\SearchPartial.cshtml",
+              "RelativeToolTip": "Features\\Pages\\Shared\\SearchPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T00:11:57.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavigationPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Pages\\Shared\\NavigationPartial.cshtml",
+              "RelativeDocumentMoniker": "Features\\Pages\\Shared\\NavigationPartial.cshtml",
+              "ToolTip": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Pages\\Shared\\NavigationPartial.cshtml",
+              "RelativeToolTip": "Features\\Pages\\Shared\\NavigationPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T00:10:41.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Models\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "Features\\Models\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Models\\ContactViewModel.cs",
+              "RelativeToolTip": "Features\\Models\\ContactViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T00:08:09.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "Features\\Controller\\HomeController.cs",
+              "ToolTip": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Controller\\HomeController.cs",
+              "RelativeToolTip": "Features\\Controller\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T00:06:46.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T00:04:25.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Features\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\123\\OneDrive - UPB\\Documents\\Gerardo Full\\SPC TOTAL\\SPC - 6 - Fall - 2025\\ASP.NET\\WEEK 4\\HW\\ContosoUniversity\\Features\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Features\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T23:55:51.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

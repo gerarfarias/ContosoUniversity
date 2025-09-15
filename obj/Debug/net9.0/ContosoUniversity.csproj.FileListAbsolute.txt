@@ -1,0 +1,8 @@
+C:\Users\123\OneDrive - UPB\Documents\Gerardo Full\SPC TOTAL\SPC - 6 - Fall - 2025\ASP.NET\WEEK 4\HW\ContosoUniversity\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\123\OneDrive - UPB\Documents\Gerardo Full\SPC TOTAL\SPC - 6 - Fall - 2025\ASP.NET\WEEK 4\HW\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\OneDrive - UPB\Documents\Gerardo Full\SPC TOTAL\SPC - 6 - Fall - 2025\ASP.NET\WEEK 4\HW\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\123\OneDrive - UPB\Documents\Gerardo Full\SPC TOTAL\SPC - 6 - Fall - 2025\ASP.NET\WEEK 4\HW\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\123\OneDrive - UPB\Documents\Gerardo Full\SPC TOTAL\SPC - 6 - Fall - 2025\ASP.NET\WEEK 4\HW\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive - UPB\Documents\Gerardo Full\SPC TOTAL\SPC - 6 - Fall - 2025\ASP.NET\WEEK 4\HW\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\123\OneDrive - UPB\Documents\Gerardo Full\SPC TOTAL\SPC - 6 - Fall - 2025\ASP.NET\WEEK 4\HW\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\123\OneDrive - UPB\Documents\Gerardo Full\SPC TOTAL\SPC - 6 - Fall - 2025\ASP.NET\WEEK 4\HW\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.RazorAssemblyInfo.cs
