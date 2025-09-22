@@ -1,4 +1,22 @@
 # ContosoUniversity
+This project is an implementation of the Contoso University tutorial using ASP.NET Core MVC 9.0 and Entity Framework Core.
+It demonstrates modern web application development patterns such as:
+
+Building responsive UIs with shared layouts and partial views
+
+Creating strongly-typed forms bound to models and view models
+
+Applying CRUD (Create, Read, Update, Delete) functionality with EF Core
+
+Using model binding and data annotations for validation
+
+Implementing PRG (Post-Redirect-Get) with TempData for success messages
+
+Adding sorting, filtering, and paging to list views
+
+Following the MVC pattern to separate concerns and keep code organized
+
+The focus is on learning how to structure an ASP.NET Core MVC application while ensuring responsiveness, accessibility, and maintainability.
 
 ## Test Plan
 1. Navigate to `/Students/Create`
